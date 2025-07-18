@@ -25,3 +25,8 @@ This repo helps me stay accountable and track my progress as I prepare for inter
    a. Palindrome_Number - Easy
    [LeetCode](https://leetcode.com/submissions/detail/1700916849/)
    [Code](https://github.com/Unlitpsyche/dsa-practice-log/blob/main/Math/Palindrome_Number.py)
+
+5. STACK:
+   a. valid_parentheses - Easy
+   [LeetCode](https://leetcode.com/submissions/detail/1702138257/)
+   [Code](https://github.com/Unlitpsyche/dsa-practice-log/blob/main/stack/valid_parentheses.py)
